@@ -26,7 +26,7 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 <a href="https://krita.org/en/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/341976/krita.svg" alt="krita" width="40" height="40"/> </a> 
 <a href="https://www.gimp.org/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/366177/gimp.svg" alt="GIMP" width="40" height="40"/> </a> 
-<a href="https://www.gimp.org/" target="_blank" rel="noreferrer"> <img src="https://inkscape.org/ru/ https://www.svgrepo.com/show/341929/inkscape.svg" alt="Inkscape" width="40" height="40"/> </a> 
+<a href="https://inkscape.org/ru/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/341929/inkscape.svg" alt="Inkscape" width="40" height="40"/> </a> 
 <a href="https://www.photopea.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Photopea_logo.svg/1200px-Photopea_logo.svg.png" alt="photopea" width="40" height="40"/> </a>
 <a href="https://www.canva.com/ru_ru/" target="_blank" rel="noreferrer"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/canva-icon.png" alt="Canva" width="40" height="40"/> </a>
 <a href="https://www.renderforest.com/#Videos" target="_blank" rel="noreferrer"> <img src="https://seekvectorlogo.com/wp-content/uploads/2019/11/renderforest-vector-logo-small.png" alt="Renderforest" width="40" height="40"/> </a>
