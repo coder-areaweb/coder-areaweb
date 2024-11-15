@@ -68,7 +68,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=coder-areaweb&show_icons=true&theme=chartreuse-dark&locale=en&layout=compact" alt="coder-areaweb" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=coder-areaweb&show_icons=true&locale=en" alt="coder-areaweb" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=coder-areaweb&show_icons=true&theme=chartreuse-dark&locale=en" alt="coder-areaweb" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coder-areaweb&" alt="coder-areaweb" /></p>
 
