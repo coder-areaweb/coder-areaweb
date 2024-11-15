@@ -70,5 +70,5 @@
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=coder-areaweb&repo=coder-areaweb&theme=chartreuse-dark&locale=en" alt="coder-areaweb" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coder-areaweb&" alt="coder-areaweb" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coder-areaweb" alt="coder-areaweb" /></p>
 
