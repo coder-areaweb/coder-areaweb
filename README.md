@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Alexey</h1>
 <h3 align="center">I'm a begginer junior-developer php</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coder-areaweb&label=Profile%20views&color=0e75b6&style=flat" alt="coder-areaweb" /> </p>
-<p align="left"> <img src="https://img.shields.io/badge/-gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:worldareacoder@gmail.com" alt="coder-areaweb" mailto:worldareacoder@gmail.com /> </p>
+[![Mail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:worldareacoder@gmail.com")](mailto:worldareacoder@gmail.com)
 
 
 <h3 align="left">Connect with me:</h3>
