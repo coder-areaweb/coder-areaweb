@@ -16,7 +16,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<img src="https://img.shields.io/badge/-gmail-c14438?style=flat&logo=Gmail&logoColor=white&" "link=mailto:worldareacoder@gmail.com" />
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:worldareacoder@gmail.com" />
+<a href="https://t.me/coder_areaweb" target="_blank">
+<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /> </a>
 </p>
 </div>
 <hr></hr>
