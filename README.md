@@ -1,25 +1,33 @@
 <div align="center" width="50">
 
-<img src="https://github.com/coder-areaweb/coder-areaweb/blob/main/dev-working.gif?raw=true" href="https://github.com/coder-areaweb" alt="Hack the planet"  width="60%"/><br> 
+<img src="https://github.com/coder-areaweb/coder-areaweb/blob/main/dev-working.gif" width="60%"/><br> 
 
-<h1 align="center">Hi 👋, I'm Alexey</h1>
-<h3 align="center">I'm a begginer junior-developer php</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=coder-areaweb&label=Profile%20views&color=0e75b6&style=flat" alt="coder-areaweb" /> 
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/coder-areaweb&color=0e75b6&style=flat"/>
-<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/coder-areaweb&color=0e75b6&style=flat"/>
-</p>
+<h1 align="center">Привет👋. Меня зовут Алексей!</h1>
 
+<p align="left"> <img src="https://github.com/coder-areaweb/coder-areaweb/blob/main/About.gif" width="45" alt="About me" /> <b>Коротко обо мне:</b>   </p>
+<ul align="left">
+<li>🏦 Я начинающий web-разработчик</li>
+<li>📖 С ноября 2023 года по октябрь 2024 изучал стэки, инструменты, roadmap Frontend | Backend | DevOps разработчика</li>
+<li>📚 Хочу стать Full Stack Dev</li>
+<li>❤️ GNU Linux &amp Open-source software</li>
+<li>🌐 Придерживаюсь права на анонимность &amp конфиденциальность &amp приватность</li>
+<li>💻 Был системным администратором более 9 лет</li>
+<li>⚡ В IT пробовал себя направлениях: Кибербезопасность | IP-телефония | UX/UI</li>
+<li>&laquoУМНЫЙ ФИТНЕС&raquo И &laquoУМНОЕ ПИТАНИЕ&raquo</li>
+ </ul>
 
-
-
-
-
+<hr></hr>
 <h3 align="left">Связь со мной:</h3>
 <p align="left">
 <a href="mailto:worldareacoder@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:" /></a>
 <a href="https://t.me/coder_areaweb" target="_blank">
 <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /> </a>
+</p>
+<hr></hr>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=coder-areaweb&label=Profile%20views&color=0e75b6&style=flat" alt="coder-areaweb" /> 
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/coder-areaweb&color=0e75b6&style=flat"/>
+<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/coder-areaweb&color=0e75b6&style=flat"/>
 </p>
 </div>
 <hr></hr>
@@ -81,7 +89,7 @@
 <a href="https://localwp.com/" target="_blank" rel="noreferrer"> <img src="https://2fasvg.github.io/assets/img/logo/localwp.com/localwp.com.svg" alt="local flywheel" width="40" height="40"/> </a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
 <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/01ea2a586e5da744792d0ccfce2f68b861f29301/topics/kubernetes/kubernetes.png" alt="kubernetes" width="40" height="40"/> </a> </p>
-
+<hr></hr>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=coder-areaweb&show_icons=true&theme=chartreuse-dark&locale=en&layout=compact" alt="coder-areaweb" /></p>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=coder-areaweb&repo=coder-areaweb&theme=chartreuse-dark&locale=en" alt="coder-areaweb" /></p>
