@@ -14,7 +14,7 @@
 
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Связь со мной:</h3>
 <p align="left">
 <a href="mailto:worldareacoder@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:" /></a>
