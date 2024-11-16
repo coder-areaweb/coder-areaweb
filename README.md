@@ -1,12 +1,18 @@
+<div align="center" width="50">
+
+<img src="https://github.com/coder-areaweb/coder-areaweb/blob/main/dev-working.gif?raw=true" href="https://github.com/coder-areaweb" alt="Hack the planet"  width="60%"/><br> 
+
 <h1 align="center">Hi 👋, I'm Alexey</h1>
 <h3 align="center">I'm a begginer junior-developer php</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coder-areaweb&label=Profile%20views&color=0e75b6&style=flat" alt="coder-areaweb" /> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-</p>
 
+</p>
+</div>
+<hr></hr>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
