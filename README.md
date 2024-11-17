@@ -12,7 +12,7 @@
 <li>❤️ GNU Linux &amp Open-source software</li>
 <li>🌐 Придерживаюсь права на анонимность &amp конфиденциальность &amp приватность</li>
 <li>💻 Был системным администратором более 9 лет</li>
-<li>⚡ В IT пробовал себя направлениях: Кибербезопасность | IP-телефония | UX/UI</li>
+<li>⚡ В IT пробовал себя направлениях: Кибербезопасность | VoIP | UX/UI</li>
 <li>Автоматизировал свои рутинные действия 2 комплексах <b>УМНЫЙ ФИТНЕС🎓</b> И <b>УМНОЕ ПИТАНИЕ🍔</b></li>
  </ul>
 
@@ -110,8 +110,8 @@
 </div>
 </td></tr></table>
 
-
 <hr></hr>
+<h3 align="left">Статистика:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=coder-areaweb&show_icons=true&theme=chartreuse-dark&locale=en&layout=compact" alt="coder-areaweb" /></p>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=coder-areaweb&repo=coder-areaweb&theme=chartreuse-dark&locale=en" alt="coder-areaweb" /></p>
