@@ -6,8 +6,8 @@
 
 <p align="left"> <img src="https://github.com/coder-areaweb/coder-areaweb/blob/main/About.gif" width="45" alt="About me" /> <b>Коротко обо мне:</b>   </p>
 <ul align="left">
-<li>🏦 Я начинающий web-разработчик</li>
-<li>👨‍🎓 Самостоятельно проходил обучение стекам, инструментам разработчика </li>
+<li>👨‍💻 Я начинающий web-разработчик</li>
+<li>👨‍🎓 Самостоятельно проходил обучение стекам, инструментам для разработчика </li>
 <li>🎯 Хочу стать Full Stack Dev</li>
 <li>❤️ GNU Linux &amp Open-source software</li>
 <li>🕵🏼‍♂️ Придерживаюсь права на анонимность, приватность и конфиденциальность</li>
